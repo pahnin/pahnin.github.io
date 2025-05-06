@@ -1,86 +1,75 @@
-# Phanindra Srungavarapu
+# Phanindra Srungavarapu - Lead Engineer
 
-## Lead Engineer - Smartbear Software (April 2024 - present)
-
+## Lead Engineer - 12 Years Experience
 
 ### About Me
 
-I started freelancing in college, became a full-time software developer in 2013, and currently work as an Engineering Manager since January 2022. I value diligence, responsibility, and accountability in leadership, alongside technical skills and clear communication, which I've consistently applied in my career.
+I am passionate about engineering optimized solutions.  
+I consider myself diligent, responsible, and accountable.
+
+---
 
 ### Experience
 
-#### Lead Engineer - Smartbear Software (April 2024 - present)
-- Working as a lead engineer in the Pactflow India team
-- Pactflow is a Ruby(non-rails) application that provides a platform for contract testing
-- Working on open source and closed source side of Pactflow
+#### Lead Engineer - Smartbear Software (Apr 2024 - Present)
+- As a lead engineer in the Pactflow (contract testing) India team, helped transition Pactflow to API Hub.
+- Improved CI/CD processes and database backup processes.
+- Set up user onboarding, migration pipelines (Rust, AWS microservices).
+- Worked on multiple performance and scalability improvements and migrated to better technical tools.
+- **Tech:** Ruby, Rust, Node.js, TypeScript, Python, AWS, DynamoDB.
 
 #### Engineer Manager - Vantage Solutions (Jan 2022 - Jan 2024)
-- Managed 6 Fullstack engineers and 3 QA to collaborate with each other & optimize team communication to avoid wait time
-- Planning and preparing for sprints, conducting sprint planning, daily standups, resolving technical and communication blockers
-- Avoid burnout or underwork for every team member, manage conflicts
-- Collaborate and coordinate with other engineering teams or product managers to optimize overall efficiency and avoiding miscommunications
-- Achieving team's growth by fostering every individual's growth by understanding the strength and weakness and having feedback loop using bi-weekly 1-1s
-- Meeting ETAs 90% of the time, throughput of 5 simultaneous projects with healthy work environment
+- Managed 6 Fullstack engineers (RoR, Node.js, React, Rust) and 3 QA to optimize team communication and avoid wait times.
+- Planned sprints, conducted sprint planning, daily standups, and resolved technical and communication blockers.
+- Avoided burnout or underwork for team members and managed conflicts effectively.
+- Collaborated with other engineering teams and product managers to optimize overall efficiency and avoid miscommunications.
+- Fostered team growth through individual growth using regular feedback loops in bi-weekly 1-1s and retrospectives.
+- Maintained high code quality while achieving scalable solutions.
+- Efficiently managed unplanned work while maintaining high sprint estimation accuracy (**~95%**).
 
 #### Senior Software Engineer - Vantage Solutions (Aloha Engineering) (Dec 2020 - Dec 2021)
-- Leading a tech team to build APIs from the ground up for multiple clients
-- Responsible for on-time delivery of APIs by team members
-- Attacking tech debt, refactoring code, improving code quality in general
-- Updated some internal processes, including:
-  - Implementing CI/CD
-  - Encouraging the engineering team to adopt rspec testing
-  - Keeping API documentation up to date
-  - Incorporating tools like rubocop to improve code quality
+- Led a tech team to build APIs from the ground up for multiple clients.
+- Responsible for on-time delivery of APIs by team members.
+- Tackled tech debt, refactored code, and improved overall code quality.
+- Updated internal processes, including:
+  - Implementing CI/CD.
+  - Encouraging the team to adopt RSpec testing.
+  - Keeping API documentation up to date.
+  - Incorporating tools like RuboCop to improve code quality.
+- **Tech:** Node.js, Ruby on Rails, TypeScript, AWS, PostgreSQL, React.
 
 #### Software Engineer - Circle Software Ltd (Apr 2016 - Nov 2020)
-- Integrating external APIs, enhancing code quality, optimizing SQL queries & improving load times
-- Setting up analytics tools, setting up downtime alerts, upgrading ROR version
-- Participating in requirement discussions, implementation and handling deployments
-- Assisting with customer onboarding by doing data migrations
-- Setting up new servers, maintaining existing servers, migrating DB and main servers from standalone servers to Google cloud using Kubernetes clusters, setting up DB replicas, setting up downtime alerts
-- Modernized features and automated some workflows like Data Migration Automation, SSL certificate renewal, custom internal alerts based workflows etc
+- Integrated external APIs, enhanced code quality, optimized SQL queries, and improved load times.
+- Set up analytics tools, downtime alerts, and upgraded Ruby on Rails versions.
+- Participated in requirement discussions, implementation, and deployments.
+- Assisted with customer onboarding through data migrations.
+- Set up and maintained servers, migrated databases and main servers to Google Cloud using Kubernetes clusters, and set up DB replicas.
+- Modernized features and automated workflows like data migration automation, SSL certificate renewal, and custom internal alerts.
+- **Tech:** Ruby on Rails, JavaScript, MySQL, Google Cloud, Bash, Python.
 
 #### Project Team Lead - Webstream.io (May 2014 - Mar 2016)
-- Mentoring Junior engineers, planning and estimating work, pair programming, code reviews of team members
+- Mentored junior engineers, planned and estimated work, pair programmed, and conducted code reviews.
+- **Tech:** Ruby on Rails, JavaScript, MySQL, Google Cloud, Bash.
 
 #### Software Engineer - Webstream.io (Jul 2013 - Apr 2014)
-- Learned code debugging, writing test cases, implementing features, discussing with clients, setting up projects from scratch
+- Learned debugging, writing test cases, implementing features, discussing with clients, and setting up projects from scratch.
+- **Tech:** Ruby on Rails, JavaScript, PostgreSQL, Google Cloud, Bash, Python.
 
-#### Part time ROR Developer - Ruby Kitchen Technosol Pvt Ltd (Sep 2012 - Jan 2013)
-- Worked as a part time remote developer for Ruby Kitchen creating a CRM tool from scratch.
+---
 
 ### Skills
-- Project Management
-- Time Management
-- Effective communication
-- Agile
-- Jira
-- Ruby on Rails
-- Ruby
-- React
-- Mysql
-- Project Planning
-- Database Design
-- CSS
-- Javascript
-- Nginx
-- Shell scripting
-- Kubernetes
-- Mentorship
 
-### Languages
-- English
-- Telugu
-- Hindi
-- Kannada
+- **Programming Languages:** Ruby, Python, Rust, TypeScript, JavaScript.
+- **Frameworks:** Ruby on Rails, Node.js, React.
+- **Testing Tools:** RSpec, RuboCop.
+- **DevOps & Cloud:** AWS, Kubernetes, Google Cloud, CI/CD, Nginx, Shell scripting.
+- **Databases:** MySQL, PostgreSQL, DynamoDB.
+- **Other Skills:** Project Management, Agile, Mentorship, Database Design.
 
-### Personal Interests
-- Traveling
-- Hiking
-- Strength Training
-- Startups
+---
 
 ### Contact
-- Email: me@phanindra.in
-- Address: 1402, 9th cross, 13th main, BTM stage 2, Bengaluru
+
+- **Email:** pahninsd@gmail.com  
+- **Address:** 135, 2nd Main, KSRTC Layout, JP Nagar Phase 2, Bengaluru
 
