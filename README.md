@@ -70,6 +70,7 @@ I consider myself diligent, responsible, and accountable.
 
 ### Contact
 
-- **Email:** pahninsd@gmail.com  
+- **Email:** pahninsd@gmail.com
+- **LinkedIn:** [Phanindra Srungavarapu](https://www.linkedin.com/in/phanindra-srungavarapu-14583619/)
 - **Address:** 135, 2nd Main, KSRTC Layout, JP Nagar Phase 2, Bengaluru
 
