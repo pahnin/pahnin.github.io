@@ -4,7 +4,7 @@
 Bengaluru | [pahninsd@gmail.com](mailto:pahninsd@gmail.com)
 
 ## About Me
-Lead engineer specializing in performance optimization and contract testing platforms, with deep experience in distributed architectures and open-source AI contributions. Known for improving system reliability, reducing bottlenecks, and mentoring engineers to deliver high-quality production services.[1]
+Staff engineer with 13+ years of experience building and scaling distributed systems, optimizing performance, and leading engineering teams. Deep expertise in Rust, Ruby on Rails, and cloud-native architectures across API platforms, AI/ML pipelines, and developer tooling. Known for improving system reliability, mentoring engineers, and contributing to open-source projects.[1]
 
 ***
 
