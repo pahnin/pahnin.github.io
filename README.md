@@ -1,6 +1,6 @@
-# Phanindra Srungavarapu - Lead Engineer
+# Phanindra Srungavarapu - Staff Engineer
 
-**Lead Engineer · 12+ years experience**  
+**Staff Engineer · 13+ years experience**  
 Bengaluru | [pahninsd@gmail.com](mailto:pahninsd@gmail.com)
 
 ## About Me
@@ -10,7 +10,10 @@ Lead engineer specializing in performance optimization and contract testing plat
 
 ## Experience
 
-### Lead Engineer - SmartBear (PactFlow) (Apr 2024 - Present)
+### Staff Software Engineer - Diligent (BoardEffect) (Jul 2026 - Present)
+- Supporting BoardEffect team members with engineering delivery and collaboration.
+
+### Lead Engineer - SmartBear (PactFlow) (Apr 2024 - Apr 2026)
 - Lead engineer in PactFlow India team, transitioning to API Hub/Swagger Hub using Step Functions (Rust).
 - Led migration of asynchronous processing to Sidekiq, reducing queue latency and improving background job reliability.
 - Contributed to open-source Pact Broker ecosystem, enhancing CI/CD integration and contract publishing.
@@ -45,10 +48,12 @@ Lead engineer specializing in performance optimization and contract testing plat
 
 ## Open Source Contributions
 
+- **Wayle** ([github.com/pahnin/wayle](https://github.com/pahnin/wayle)): Forked Wayle (Wayland layer shell built in Rust, compatible with Niri, Hyprland, etc.) with added dock support and bug fixes such as dropdown opacity fix.[1]
+- **Whisper App** ([github.com/pahnin/whisper-ui](https://github.com/pahnin/whisper-ui)): Real-time speech-to-text app using Whisper.cpp, built with Rust and Iced for Linux and Mac; minimal, performant, and lightweight for background operation.[1]
+- **Noctalia Ollama Assistant** ([github.com/pahnin/noctalia-ollama-assistant](https://github.com/pahnin/noctalia-ollama-assistant)): UI layer + conversation history compactor on top of Ollama for Noctalia Desktop Shell; supports multiple OpenAI-compatible providers with persistent multi-conversation chat.[1]
+- **NVIDIA GPU Monitoring Plugin** ([github.com/pahnin/nvidia-gpu-monitoring-plugin](https://github.com/pahnin/nvidia-gpu-monitoring-plugin)): Real-time GPU metrics plugin for Noctalia Shell on Linux; polls nvidia-smi every 250ms with visual graphs, color-coded alerts, and customizable display options.[1]
 - **FramePack Core Low VRAM** ([github.com/pahnin/framepack_core_low_vram](https://github.com/pahnin/framepack_core_low_vram)): Forked FramePack with aggressive tiling optimizations for low-VRAM GPUs; restructured for pipeline integration.[1]
-- **SDXL Hunyuan Pipeline Server** ([github.com/pahnin/sdxl-hunyuan-pipeline-server](https://github.com/pahnin/sdxl-hunyuan-pipeline-server)): Headless FastAPI server + queue processor for SDXL→Hunyuan→Framepack video generation.[2][1]
-- **SDXL Hunyuan Android Client** ([github.com/pahnin/sdxl-hunyuan-pipeline-android-client](https://github.com/pahnin/sdxl-hunyuan-pipeline-android-client)): Mobile client for video pipeline server.
-- **pgAdmin GenAI** ([github.com/pahnin/pg-admin-genAi](https://github.com/pahnin/pg-admin-genAi)): Desktop app for local LLM experimentation in PostgreSQL workflows with state/memory management.[1]
+- Past projects include SDXL Hunyuan video generation pipelines (FastAPI server + Android client) and pgAdmin GenAI desktop app.[2][1]
 
 ***
 
