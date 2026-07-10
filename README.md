@@ -1,5 +1,3 @@
-<div style="background-color:#faf9f6;padding:32px 40px;border-radius:12px;margin:16px 0">
-
 # Phanindra Srungavarapu — Staff Engineer
 
 **Staff Engineer · 13+ years experience**  
@@ -59,8 +57,6 @@ Staff engineer with 13+ years of experience building and scaling distributed sys
 
 ---
 
-<div style="background-color:#f5f4f0;padding:20px 24px;border-radius:8px;margin:8px 0">
-
 ## Skills
 
 **Languages/Frameworks** — Rust, Ruby, Ruby on Rails, Python, Node.js, TypeScript, React, JavaScript  
@@ -68,12 +64,10 @@ Staff engineer with 13+ years of experience building and scaling distributed sys
 **Core Competencies** — Performance optimization, Contract testing (Pact/PactFlow), CI/CD, Sidekiq, Database design, Project management, Mentorship, Agile  
 **Tools** — Jira, Git, Docker, GenAI pipelines (SDXL, Hunyuan, FramePack)
 
-</div>
-
 ---
 
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/phanindra-srungavarapu-14583619/) · [GitHub](https://github.com/pahnin)
 
-</div>
+---
