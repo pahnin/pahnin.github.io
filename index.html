@@ -30,8 +30,8 @@
       color: var(--text-secondary);
     }
 
-    .card {
-      max-width: 700px;
+     .card {
+      max-width: 1200px;
       margin: 0 auto;
       background: var(--card);
       border-radius: var(--radius);
@@ -207,11 +207,23 @@
 
     .oss-link:hover { text-decoration: underline; }
 
+    .oss-ext-link {
+      display: inline-flex;
+      align-items: center;
+      margin-left: 4px;
+      color: var(--text-primary);
+      vertical-align: middle;
+      opacity: 0.4;
+      transition: opacity 0.15s ease;
+    }
+
+    .oss-ext-link:hover { opacity: 1; }
+
     /* ---- Skills (alt surface) ---- */
     .alt-section {
       background: var(--card-alt);
       border-radius: 8px;
-      padding: 28px 36px;
+      padding: 20px 28px;
       margin-top: 4px;
     }
 
@@ -263,6 +275,7 @@
     @media (max-width: 600px) {
       body { padding: 24px 12px 60px; }
       .card { padding: 28px 24px; }
+      .alt-section { padding: 16px 20px; }
       .header h1 { font-size: 24px; }
       .skill-row { flex-direction: column; gap: 2px; }
       .skill-label { min-width: auto; }
@@ -414,23 +427,23 @@
         <h2 class="section-title">Open Source</h2>
         <ul class="oss-list">
           <li>
-            <span class="oss-project"><a href="https://github.com/pahnin/wayle">Wayle</a></span>
+            <span class="oss-project"><a href="https://github.com/pahnin/wayle" target="_blank" rel="noopener noreferrer">Wayle<span class="oss-ext-link">↗</span></a></span>
             <span class="oss-desc">: Forked Wayle (Wayland layer shell built in Rust, compatible with Niri, Hyprland, etc.) with added dock support and bug fixes such as dropdown opacity fix.</span>
           </li>
           <li>
-            <span class="oss-project"><a href="https://github.com/pahnin/whisper-ui">Whisper App</a></span>
+            <span class="oss-project"><a href="https://github.com/pahnin/whisper-ui" target="_blank" rel="noopener noreferrer">Whisper App<span class="oss-ext-link">↗</span></a></span>
             <span class="oss-desc">: Real-time speech-to-text app using Whisper.cpp, built with Rust and Iced for Linux and Mac; minimal, performant, and lightweight for background operation.</span>
           </li>
           <li>
-            <span class="oss-project"><a href="https://github.com/pahnin/noctalia-ollama-assistant">Noctalia Ollama Assistant</a></span>
+            <span class="oss-project"><a href="https://github.com/pahnin/noctalia-ollama-assistant" target="_blank" rel="noopener noreferrer">Noctalia Ollama Assistant<span class="oss-ext-link">↗</span></a></span>
             <span class="oss-desc">: UI layer + conversation history compactor on top of Ollama for Noctalia Desktop Shell; supports multiple OpenAI-compatible providers with persistent multi-conversation chat.</span>
           </li>
           <li>
-            <span class="oss-project"><a href="https://github.com/pahnin/nvidia-gpu-monitoring-plugin">NVIDIA GPU Monitoring Plugin</a></span>
+            <span class="oss-project"><a href="https://github.com/pahnin/nvidia-gpu-monitoring-plugin" target="_blank" rel="noopener noreferrer">NVIDIA GPU Monitoring Plugin<span class="oss-ext-link">↗</span></a></span>
             <span class="oss-desc">: Real-time GPU metrics plugin for Noctalia Shell on Linux; polls nvidia-smi every 250ms with visual graphs, color-coded alerts, and customizable display options.</span>
           </li>
           <li>
-            <span class="oss-project"><a href="https://github.com/pahnin/framepack_core_low_vram">FramePack Core Low VRAM</a></span>
+            <span class="oss-project"><a href="https://github.com/pahnin/framepack_core_low_vram" target="_blank" rel="noopener noreferrer">FramePack Core Low VRAM<span class="oss-ext-link">↗</span></a></span>
             <span class="oss-desc">: Forked FramePack with aggressive tiling optimizations for low-VRAM GPUs; restructured for pipeline integration.</span>
           </li>
           <li>
